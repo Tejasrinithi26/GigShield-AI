@@ -277,11 +277,11 @@ External APIs:
 
 # Team
 
-- Tejasrinithi U S – System Architect & Project Lead  
-- Dhanushree S – Backend Developer (API & Database)  
-- Dharana Nidhini K K – Frontend Developer (UI/UX Design)  
-- Merlin Praisy S – AI/ML Developer (Risk Prediction & Fraud Detection)  
-- Sarmila V – Research & Documentation (Business Model & Analysis)
+- Tejasrinithi U S – Frontend Developer  
+- Dhanushree S – Backend Developer   
+- Dharana Nidhini K K – Prototype Developer 
+- Merlin Praisy S – AI/ML Developer  
+- Sarmila V – Research & Documentation 
 
 ---
 
