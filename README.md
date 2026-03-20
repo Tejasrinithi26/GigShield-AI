@@ -288,7 +288,7 @@ External APIs:
 # Links
 
 - Demo Video: [Add link]  
-- GitHub: [Add link]  
+- GitHub: https://github.com/Tejasrinithi26/GigShield-AI/edit/main/README.md
 
 ---
 
