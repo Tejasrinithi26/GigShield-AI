@@ -5,6 +5,7 @@ Protecting gig workers from income loss caused by real-world disruptions.
 ---
 
 ## The Problem
+Delivery partners lose **20–30% of their monthly income** due to rain and environmental disruptions.
 
 ### Rain Problem in Numbers
 
